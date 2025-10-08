@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo Story</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on Hugo Story</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>{year}</copyright>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Impressum</title>
+      <link>//localhost:1313/impressum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/impressum/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;./&#34;&gt;← Zurück zur Startseite&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Name / Anbieter:&lt;/strong&gt; Dr. Johannes Kastner&lt;br&gt;&#xA;&lt;strong&gt;Adresse:&lt;/strong&gt; Neuhäuserstr. 27, 86154 Augsburg, Germany&lt;br&gt;&#xA;&lt;strong&gt;E-Mail:&lt;/strong&gt; &lt;a href=&#34;mailto:kastner.hannes@gmail.com&#34;&gt;kastner.hannes@gmail.com&lt;/a&gt;&lt;br&gt;&#xA;&lt;strong&gt;Telefon:&lt;/strong&gt; +49 160 948 14 535&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Verantwortlich für Inhalte gemäß § 55 Abs. 2 RStV&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;haftungshinweis&#34;&gt;Haftungshinweis&lt;/h2&gt;&#xA;&lt;p&gt;Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung für Inhalte externer Links.&lt;br&gt;&#xA;Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;urheberrecht&#34;&gt;Urheberrecht&lt;/h2&gt;&#xA;&lt;p&gt;Alle Inhalte dieser Website (Texte, Bilder, Layout) sind urheberrechtlich geschützt.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;./&#34;&gt;← Zurück zur Startseite&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
